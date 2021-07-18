@@ -1,3 +1,3 @@
 # Chat_broadcast_TCP
 
-![test para la cola](img/001.png)
+![test para la cola](Selección_081.png)
